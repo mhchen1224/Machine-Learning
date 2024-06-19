@@ -1,2 +1,2 @@
 # Machine-Learning
-2024 Spring Machine Learning Course in National Yang Ming Chiao Tung University
+2024 Fall Machine Learning Course in National Yang Ming Chiao Tung University
